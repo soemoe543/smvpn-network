@@ -1,2 +1,14 @@
-# smvpn-network
-SMVPN Network &amp; Cloud Learning Projects
+# # SMVPN
+
+Network & Cloud Technology Learning
+
+## Skills
+- Linux
+- VPS Management
+- Networking
+- Cloud Server
+
+## Projects
+- Server monitoring
+- Network tools
+- Learning scripts
